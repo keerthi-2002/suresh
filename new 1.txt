@@ -1,0 +1,6 @@
+GIT TECHNOLGY
+                                                                   INTRODUCTION
+Git is a very useful version control tool that helps developers to collaborate efficiently.
+ However understanding how to truly leverage the flexibility and power that git provides can often be difficult even for experienced developers in the industry.
+ In this article we will try to understand different features of git with the help of real world scenarios.
+ So without further ado let’s start.
